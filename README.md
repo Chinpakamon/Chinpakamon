@@ -29,7 +29,7 @@ I focus on building **reliable, scalable, and maintainable backend systems**.
 
 ## Socials
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/vladislav-zakiev-215935269/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
   </a>
